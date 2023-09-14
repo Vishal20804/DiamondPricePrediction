@@ -1,0 +1,3 @@
+[ 2023-09-08 21:16:22,412 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-09-08 21:16:22,419 ] 187 werkzeug - INFO -  * Debugger PIN: 117-542-774
+[ 2023-09-08 21:18:58,333 ] 187 werkzeug - INFO -  * Detected change in 'C:\\Users\\sharm\\OneDrive\\Desktop\\DiamondPP\\application.py', reloading
