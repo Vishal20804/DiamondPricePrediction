@@ -3,6 +3,6 @@ pandas
 flask
 seaborn
 scikit-learn
-
+gunicorn
 
 #-e .
